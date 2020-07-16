@@ -1,3 +1,4 @@
+package com.giordanbetat.mediator;
 
 public abstract class Participant {
 

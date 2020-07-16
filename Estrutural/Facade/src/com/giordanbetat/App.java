@@ -1,3 +1,6 @@
+package com.giordanbetat;
+
+import com.giordanbetat.facade.Facade;
 
 public class App {
 

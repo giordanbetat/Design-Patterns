@@ -1,3 +1,4 @@
+package com.giordanbetat.proxy;
 
 public class ProxyImage extends Image{
 

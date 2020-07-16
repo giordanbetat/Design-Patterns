@@ -1,10 +1,11 @@
+package com.giordanbetat.memento;
 
-public class Salesman {
-	
+public class Memento {
+
 	private String name = "";
 	private float totalSales = 0.0F;
 	
-	public Salesman(String name, float totalSales){
+	public Memento(String name, float totalSales){
 		this.name = name;
 		this.totalSales = totalSales;
 	}
@@ -24,15 +25,4 @@ public class Salesman {
 	public void setTotalSales(float totalSales) {
 		this.totalSales = totalSales;
 	}
-	
-	public Memento createMemento() {
-		Memento memento = new Memento(name, totalSales);
-		return memento;
-	}
-	
-	public void retoreMemeneto(Memento memento){
-		this.name = memento.getName();
-		this.totalSales = memento.getTotalSales();
-	}
-
 }

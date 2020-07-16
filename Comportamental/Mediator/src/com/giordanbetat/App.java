@@ -1,3 +1,8 @@
+package com.giordanbetat;
+
+import com.giordanbetat.mediator.ChatMediator;
+import com.giordanbetat.mediator.Participant;
+import com.giordanbetat.mediator.ParticipantImpl;
 
 public class App {
 

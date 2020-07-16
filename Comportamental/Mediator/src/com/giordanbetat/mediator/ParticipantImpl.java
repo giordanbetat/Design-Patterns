@@ -1,3 +1,4 @@
+package com.giordanbetat.mediator;
 
 public class ParticipantImpl extends Participant{
 

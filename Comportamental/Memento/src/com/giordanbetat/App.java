@@ -1,3 +1,7 @@
+package com.giordanbetat;
+
+import com.giordanbetat.memento.SalesMemory;
+import com.giordanbetat.memento.Salesman;
 
 public class App {
 

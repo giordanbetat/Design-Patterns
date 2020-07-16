@@ -1,3 +1,7 @@
+package com.giordanbetat;
+
+import com.giordanbetat.proxy.Image;
+import com.giordanbetat.proxy.ProxyImage;
 
 public class App {
 

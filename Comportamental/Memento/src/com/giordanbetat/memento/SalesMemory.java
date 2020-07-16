@@ -1,3 +1,4 @@
+package com.giordanbetat.memento;
 
 public class SalesMemory {
 	
